@@ -25,7 +25,7 @@ This profile serves as a curated overview of my main projects, research work, an
 - Analyzed performance trade-offs across fine-tuning and compression techniques
 
 Repository: private (academic restrictions)  
-📄 Write-up: [Project Report (PDF)](../papers/qwen3-ft-paper.pdf)
+📄 Write-up: [Project Report (PDF)](https://github.com/c0ntrolZ/papers/blob/main/qwen3-ft-paper.pdf)
 
 
 ### Application of Machine Learning for FPGA Routing Cost Prediction
@@ -38,7 +38,7 @@ Repository: private (academic restrictions)
 - Analyzed trade-offs between model complexity and routing quality
 
 Repository: private (academic restrictions)  
-📄 Write-up: [Project Report (PDF)](./papers/fpga_routing_ml.pdf)
+📄 Write-up: [Project Report (PDF)](https://github.com/c0ntrolZ/papers/blob/main/fpga-routing-ml.pdf)
 
 ### Privacy-Preserving Marketplace on Blockchain
 **Cryptography · Blockchain**
@@ -49,7 +49,7 @@ Repository: private (academic restrictions)
 - Evaluated security properties and practical feasibility of the system
 
 Repository : https://github.com/c0ntrolZ/anonymousReputationSystem
-📄 Write-up : [Project Report (PDF)](./papers/blockchain-marketplace.pdf)
+📄 Write-up : [Project Report (PDF)](https://github.com/c0ntrolZ/papers/blob/main/blockchain-marketplace.pdf)
 
 ### Sui Blockchain Hackathon — Secure Smart Contract Escrow
 **Blockchain · Smart Contracts**
