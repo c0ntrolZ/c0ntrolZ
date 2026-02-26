@@ -25,7 +25,7 @@ This profile serves as a curated overview of my main projects, research work, an
 - Analyzed performance trade-offs across fine-tuning and compression techniques
 
 Repository: private (academic restrictions)  
-📄 Write-up: [Project Report (PDF)](./papers/qwen3-ft-paper.pdf)
+📄 Write-up: [Project Report (PDF)](../papers/qwen3-ft-paper.pdf)
 
 
 ### Application of Machine Learning for FPGA Routing Cost Prediction
