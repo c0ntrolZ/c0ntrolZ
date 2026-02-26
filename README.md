@@ -1,14 +1,13 @@
 # ylzmn · c0ntrolz
 
 MSc Computer Science @ EPFL  
-Research · Systems · Algorithms · Machine Learning
+Research · AI · Machine Learning · Security
 
 ---
 
 ## About
 
-I am a Computer Science MSc student with a strong interest in **algorithmic research, systems, and applied machine learning**.  
-My work focuses on building **theoretically grounded, well-engineered solutions**, with an emphasis on correctness, performance, and reproducibility.
+I am a Computer Science MSc student with a strong interest in **applied machine learning, systems, and security**.  
 
 This profile serves as a curated overview of my main projects, research work, and technical interests.
 
@@ -43,12 +42,23 @@ This profile serves as a curated overview of my main projects, research work, an
 
 ## Research & Academic Work
 
-### Title of Research Project / Paper
-- Brief description of the research question
-- Methods or techniques used
-- Current status (draft / submitted / completed)
+### Application of Machine Learning for FPGA routing costs prediction
+- Investigated the use of machine learning models for FPGA routing cost prediction 
+- Designed and curated a custom dataset from routing instances
+- Experimented with multiple model families and feature representations
+- Trained, evaluated, and compared models using appropriate performance metrics
+- Analyzed limitations and trade-offs between model complexity and routing quality
 
-📄 Paper / preprint: link (if public)
+📄 Paper : 
+
+### Privacy-Preserving Marketplace on Blockchain
+- Designed and formally specified a complete cryptographic protocol for an anonymous review marketplace on Ethereum
+- Developed a system architecture enabling privacy, integrity, and verifiability of user reviews
+- Leveraged zk-SNARKs and Merkle tree constructions to ensure anonymity and tamper resistance
+- Implemented the protocol using Solidity smart contracts
+- Evaluated security properties and practical feasibility of the system
+
+📄 Paper : 
 
 ---
 
@@ -70,19 +80,44 @@ This profile serves as a curated overview of my main projects, research work, an
 ## Experience & Education
 
 **MSc in Computer Science** — EPFL  
-Relevant coursework: Course 1, Course 2, Course 3
+Relevant coursework: Modern Natural Language Processing, Machine Learning, Decentralized Systems Engineering, Software Security
 
-**Previous Experience**  
-- Role / Internship / Project (one line each)
+**Incoming Experience**  
+- Summer internship / Applied AI / Breavan Howard
+
+---
+
+## Research Experience
+
+### Machine Learning for FPGA Routing
+**Domain:** Machine Learning  
+
+- Investigated the use of machine learning models for FPGA routing improvment
+- Designed and curated a custom dataset from routing instances
+- Experimented with multiple model families and feature representations
+- Trained, evaluated, and compared models using appropriate performance metrics
+- Analyzed limitations and trade-offs between model complexity and routing quality
+
+---
+
+### Privacy-Preserving Marketplace on Blockchain
+**Domain:** Cryptography · Blockchain  
+
+- Designed and formally specified a complete cryptographic protocol for an anonymous review marketplace on Ethereum
+- Developed a system architecture enabling privacy, integrity, and verifiability of user reviews
+- Leveraged zk-SNARKs and Merkle tree constructions to ensure anonymity and tamper resistance
+- Implemented the protocol using Solidity smart contracts
+- Evaluated security properties and practical feasibility of the system
+
 
 ---
 
 ## Contact
 
-- Email: your@email.com  
-- GitHub: https://github.com/ylzmn  
-- LinkedIn: link (optional)  
-- Website: link (optional)
+- Email: yonathan.lanzmann@epfl.ch  
+- GitHub: https://github.com/c0ntrolZ
+- LinkedIn : https://www.linkedin.com/in/yonathan-lanzmann-b669a2324
+
 
 ---
 
