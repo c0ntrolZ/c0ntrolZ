@@ -80,6 +80,8 @@ Repository : https://github.com/c0ntrolZ/anonymousReputationSystem
 **MSc in Computer Science** — EPFL  
 Relevant coursework: Modern Natural Language Processing, Machine Learning, Decentralized Systems Engineering, Software Security
 
+**BSc in Computer Science** — EPFL  
+
 **Incoming Experience**  
 - Summer internship / Applied AI / Breavan Howard
 
