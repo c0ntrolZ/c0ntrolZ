@@ -7,7 +7,7 @@ Research · AI · Machine Learning · Security
 
 ## About
 
-I am a Computer Science MSc student with a strong interest in **applied machine learning, systems, and security**.  
+I am a Computer Science MSc student with a strong interest in **machine learning, NLP, systems, and security**.  
 
 This profile serves as a curated overview of my main projects, research work, and technical interests.
 
