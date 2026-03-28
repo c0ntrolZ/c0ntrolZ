@@ -83,7 +83,7 @@ Relevant coursework: Modern Natural Language Processing, Machine Learning, Decen
 **BSc in Computer Science** — EPFL  
 
 **Incoming Experience**  
-- Summer internship / Applied AI / Breavan Howard
+- Applied AI Summer Internship @ Breavan Howard
 
 ---
 
